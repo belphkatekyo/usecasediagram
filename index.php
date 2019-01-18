@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title></title>
+<title>Use Case</title>
 </head>
 <body>
 <img src="org.JPG"/>
